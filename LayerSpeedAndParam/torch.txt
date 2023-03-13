@@ -1,0 +1,10 @@
+Name: torch
+Version: 1.13.1+cu116
+Summary: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+Home-page: https://pytorch.org/
+Author: PyTorch Team
+Author-email: packages@pytorch.org
+License: BSD-3
+Location: /usr/local/lib/python3.9/dist-packages
+Requires: typing-extensions
+Required-by: fastai, torchaudio, torchtext, torchvision
